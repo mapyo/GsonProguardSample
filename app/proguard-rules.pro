@@ -61,3 +61,7 @@
 
 # For okhttp
 -dontwarn okio.**
+
+# For Gson test!!!!!!!
+# -keepnames class com.mapyo.gsonproguardsample.Repository { *; }
+# -keepclassmembernames class com.mapyo.gsonproguardsample.Repository { *; }
